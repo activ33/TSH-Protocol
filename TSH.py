@@ -10,7 +10,7 @@ import os
 ### SETTINGS ###
 
 # BOT API TOKEN
-apiKey  = "6344846447:AAH9lv46yedRE3ggY0PeWliY4XgWk0hg01g"
+apiKey  = "6483695475:AAHBskCTVfibxsMJeHtOKa0BeARjoIYLQcw"
 
 # /START COMMAND
 def start(bot, update):
